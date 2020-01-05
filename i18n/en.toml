@@ -1,0 +1,17 @@
+[blog]
+other = "blog"
+
+[projects]
+other = "projects"
+
+[series]
+other = "series"
+
+[categories]
+other = "categories"
+
+[tags]
+other = "tags"
+
+[lastSeen]
+other = "last seen"
